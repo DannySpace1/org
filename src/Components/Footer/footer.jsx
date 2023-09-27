@@ -8,7 +8,7 @@ const Footer = () =>{
             <img src="/img/twitter.png" alt='twitter' />
         </a>
         <a href='https://www.instagram.com/danny_space_oficial/'>
-            <img src="/img/instagram.png" alt='instagram' />
+            <img src="./img/instagram.png" alt='instagram' />
         </a>
     </div>
     <img src='/img/Logo.png' alt='org' />
